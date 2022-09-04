@@ -1,1 +1,1 @@
-this is a vagrant project
+this is day zero
